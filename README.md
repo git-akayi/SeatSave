@@ -5,13 +5,16 @@ students and professionals organize, track, and prioritize their daily tasks
 and deadlines effectively.
 
 ## Group Members
-Molo, Kairos C. - Leader,  Backend Dev
-Sanlayan, Paul Andree - Backend Dev
-Rabosa, Reanoza Marilex B. - Frontend Dev
-Lapinid, Abigail Jim G. - Frontend Dev
-Sabana, Shenaiah Elden D. - QA
-Amomas, Tristan H. - QA
-Alberca, Jastin - QA
+
+| Name | Role |
+|------|------|
+| Molo, Kairos C. | Leader, Backend Developer |
+| Sanlayan, Paul Andree | Backend Developer |
+| Rabosa, Reanoza Marilex B. | Frontend Developer |
+| Lapinid, Abigail Jim G. | Frontend Developer |
+| Sabana, Shenaiah Elden D. | QA |
+| Amomas, Tristan H. | QA |
+| Alberca, Jastin | QA |
 
 ## Tech Stack
 | Technology | Version |
