@@ -15,6 +15,7 @@ SeatSave is a mobile app that lets students view real-time table availability in
 | Sabana, Shenaiah Elden D. | QA |
 | Amomas, Tristan H. | QA |
 | Alberca, Jastin | QA |
+<<<<<<< HEAD
 
 ## Features
 
@@ -26,6 +27,8 @@ SeatSave is a mobile app that lets students view real-time table availability in
 - Filter tables by seating capacity or power outlet access
 
 **Planned:** auto-cancellation for missed check-ins and reminders before a reservation ends.
+=======
+>>>>>>> 8e84ee5367366a112e2022fbc187a612d11fd4bb
 
 ## Tech Stack
 
@@ -39,6 +42,7 @@ SeatSave is a mobile app that lets students view real-time table availability in
 | AsyncStorage | X.XX.X |
 
 ## Getting Started
+<<<<<<< HEAD
 
 1. Install [Node.js](https://nodejs.org) (LTS) and the **Expo Go** app on your phone
 2. Clone the repository:
@@ -60,3 +64,9 @@ SeatSave is a mobile app that lets students view real-time table availability in
 
 IT314 Software Engineering, University of Science and Technology of Southern Philippines
 Instructor: Ms. Alyssa Mae Libe
+=======
+1. Clone the repository
+2. Run `npm install`
+3. Run `npx expo start`
+4. Scan the QR code with Expo Go
+>>>>>>> 8e84ee5367366a112e2022fbc187a612d11fd4bb
