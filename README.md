@@ -15,7 +15,6 @@ SeatSave is a mobile app that lets students view real-time table availability in
 | Sabana, Shenaiah Elden D. | QA |
 | Amomas, Tristan H. | QA |
 | Alberca, Jastin | QA |
-<<<<<<< HEAD
 
 ## Features
 
