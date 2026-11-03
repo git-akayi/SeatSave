@@ -7,6 +7,6 @@ Team Members & Roles
 | Amomas, Thristan H. | QA | 
 | Lapinid, Abigail Jim G.  | Frontend Developer |
 | Sanlayan, Paul Andree E. | Backend Dev |
-|  |  |
+| Sabana, Shenaiah Elden B. | QA |
 |  |  |
 |  |  |
