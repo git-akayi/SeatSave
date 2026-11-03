@@ -1,3 +1,11 @@
-Group Member:
+Team Members & Roles
 
-Reanoza Marilex Rabosa - Frontend 
+| Name | Role |
+| :--- | :--- |
+| Alberca, Jastin | QA |
+| Rabosa, Reanoza Marilex B.  | Frontend Dev |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
