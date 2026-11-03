@@ -5,9 +5,7 @@ Team Members & Roles
 | Alberca, Jastin | QA |
 | Rabosa, Reanoza Marilex B.  | Frontend Dev |
 | Amomas, Thristan H. | QA | 
-|  |
 |  |  |
 |  |  |
 |  |  |
-
-git status
+|  |  |
