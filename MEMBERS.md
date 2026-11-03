@@ -1,1 +1,11 @@
-ang way ngan diri aw kabalo naka
+Team Members & Roles
+
+| Name | Role |
+| :--- | :--- |
+| Alberca, Jastin | QA |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
