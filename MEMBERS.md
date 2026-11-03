@@ -1,1 +1,3 @@
-ang way ngan diri aw kabalo naka
+Group Member:
+
+Reanoza Marilex Rabosa - Frontend 
